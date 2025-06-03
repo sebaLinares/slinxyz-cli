@@ -1,0 +1,29 @@
+{
+  "name": "slinxyz-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "nb": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests for now\" && exit 0"
+  },
+  "keywords": [
+    "nest",
+    "cli",
+    "bootstrap",
+    "generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "execa": "^9.6.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.6.3",
+    "ora": "^8.2.0"
+  }
+}
