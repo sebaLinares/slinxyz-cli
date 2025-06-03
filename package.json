@@ -4,7 +4,7 @@
   "type": "module",
   "main": "index.js",
   "bin": {
-    "nb": "bin/cli.js"
+    "slinxyz-cli": "bin/cli.js"
   },
   "scripts": {
     "test": "echo \"No tests for now\" && exit 0"
