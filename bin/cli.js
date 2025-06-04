@@ -125,6 +125,8 @@ program
         '@semantic-release/github',
         '@semantic-release/npm',
         '@semantic-release/release-notes-generator',
+        '@typescript-eslint/eslint-plugin',
+        '@typescript-eslint/parser',
         'cross-env',
         'eslint-config-prettier',
         'eslint-plugin-prettier',
